@@ -11,3 +11,4 @@ I'm Actually on my first year and this is one of my first excercise to become a 
 * CSS
 * JAVASCRIPT
 * GIT
+* C++
